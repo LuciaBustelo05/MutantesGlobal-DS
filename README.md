@@ -253,5 +253,3 @@ docker run -p 8080:8080 mutantes-api
 | README completo           | ✔      |
 
 ---
-
-Si querés, puedo armar también el **PDF final** para entregar, basado en este README.
